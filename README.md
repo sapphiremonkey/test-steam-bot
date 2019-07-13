@@ -1,4 +1,4 @@
-# test-steam-bot
+# Test-Steam-Bot
 
 This is a personal project done to further understand the mechanics of node dependencies and the Steam Web API.
 
